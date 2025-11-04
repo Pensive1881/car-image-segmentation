@@ -1,0 +1,23 @@
+# Deep Learning Framework
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Dataset Management and Visualization
+fiftyone>=0.23.0
+
+# HuggingFace Libraries
+transformers>=4.30.0
+datasets>=2.14.0
+
+# Data Processing
+pyarrow>=14.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Image Processing
+Pillow>=10.0.0
+opencv-python>=4.8.0
+
+# Utilities
+tqdm>=4.65.0
